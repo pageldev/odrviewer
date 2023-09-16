@@ -1,0 +1,3 @@
+[submodule "thirdparty/libOpenDRIVE"]
+	path = thirdparty/libOpenDRIVE
+	url = https://github.com/grepthat/libOpenDRIVE
